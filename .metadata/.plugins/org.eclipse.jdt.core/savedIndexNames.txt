@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\workspace\JAVA\prova-roberto-ed-1\.metadata\.plugins\org.eclipse.jdt.core
-3792239775.index
-3579618616.index
